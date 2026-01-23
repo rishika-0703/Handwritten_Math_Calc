@@ -1,1 +1,1 @@
-# Handwritten_Math_Calc
+# Team-3: Handwritten Math Calculator
