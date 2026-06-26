@@ -10,8 +10,8 @@ from tensorflow.keras.models import load_model
 # -----------------------------
 @st.cache_resource
 def load_project_models():
-    digit_net = load_model("D:/rishika/downloads/mnist_digit_model.keras")
-    symbol_net = load_model("D:/rishika/downloads/symbol_model.keras")
+    digit_net = load_model("/mnist_digit_model.keras")
+    symbol_net = load_model("/symbol_model.keras")
     return digit_net, symbol_net
 
 
