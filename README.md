@@ -20,7 +20,7 @@ handwritten-equation-solver/
 │
 ├── app.py                   # Streamlit app (main entry point)
 ├── symbol_model.keras       # Trained CNN for symbols
-├── digit_model.keras        # Trained CNN for digits (optional)
+├── digit_model.keras        # Trained CNN for digits
 ├── project.ipynb            # Google Colab notebook (exported)
 ├── README.md                # About the Project
 └── .gitignore               
